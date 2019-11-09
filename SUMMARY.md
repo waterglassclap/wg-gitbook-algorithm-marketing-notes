@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Algorithm Marketing Study 3  -  Promotion and Advertisement](README.md)
 
